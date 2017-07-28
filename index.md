@@ -1,7 +1,8 @@
 ## welcome to kevin pages
 
 You can use the [editor on GitHub](https://github.com/moviestyle/moviestyle.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-链接到我的test [我的test内容](https://github.com/moviestyle/moviestyle.github.io/edit/master/index.md) 
+链接到我的test [我的test内容](https://moviestyle.github.io/mytest.md) 
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files
 
 ### Markdown
