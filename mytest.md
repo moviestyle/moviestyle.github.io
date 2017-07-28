@@ -1,6 +1,0 @@
-<!DOCTYPE html>
-<html lang="en">
-<script>
- this.location = "你需要跳转的页面网址" ;
-</script>
-</html>
